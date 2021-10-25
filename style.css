@@ -1,0 +1,23 @@
+body {
+    padding: 1vw;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#text-area {
+    width: 30vw;
+    height: 25vh;
+}
+
+.buttons {
+    padding: 5px;
+    /*display: flex;*/
+}
+
+#upper-case, #lower-case, #proper-case, #sentence-case, #save-text-file {
+    background: coral;
+    font-weight: bold;
+}
